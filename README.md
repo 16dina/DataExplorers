@@ -4,8 +4,10 @@ This is a GitHub repo for the Cloud AI course for group DataExplorers.
 About the company:
 
 Company Members:
-Daan Michielsen (Substance Abuse Counselor)
-Dina Boshnaq (Truck Driver)
-Sharon Maharjan (Landscaper & Groundskeeper)
+<ol>
+<li>Daan Michielsen (Substance Abuse Counselor)</li>
+<li>Dina Boshnaq (Truck Driver)</li>
+<li>Sharon Maharjan (Landscaper & Groundskeeper)</li>
+</ol> 
 
 
