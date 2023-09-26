@@ -9,39 +9,21 @@ At DataExplorer, our mission is clear: to empower organizations with the knowled
 
 <h2>Meet our company members!</h2>
 
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 40%;
-}
-
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-.container {
-  padding: 2px 16px;
-}
-</style>
-</head>
-
-<div class="card">
-  <img src="daan.png" alt="Daan" style="width:100%">
-  <div class="container">
-    <h4><b>Daan Michielsen</b></h4> 
-    <p>(Substance Abuse Counselor)</p> 
-  </div>
-</div>
 <ol>
-  
+<li>
+    Daan Michielsen (Substance Abuse Counselor)
+  </br>
+   <img src='daan.png' width='200'/>
+</li>
 <li>
   Dina Boshnaq (Truck Driver)
+  </br>
   <img src='dinaAvatar.png' width='200'/>
 </li>
 
 <li>
   Sharon Maharjan (Landscaper & Groundskeeper)
+  </br>
   <img src='sharonAvatar.png' width='200'/>
 </li>
 
