@@ -12,7 +12,7 @@ At DataExplorer, our mission is clear: to empower organizations with the knowled
 <li>Daan Michielsen (Substance Abuse Counselor)</li>
 <li>
   Dina Boshnaq (Truck Driver)
-  <img src='dinaAvatar.png'/>
+  <img src='dinaAvatar.png' width=50/>
 </li>
 
 <li>Sharon Maharjan (Landscaper & Groundskeeper)</li>
