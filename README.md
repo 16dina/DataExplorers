@@ -10,13 +10,17 @@ At DataExplorer, our mission is clear: to empower organizations with the knowled
 <h2>Meet our company members!</h2>
 <ol>
 <li>Daan Michielsen (Substance Abuse Counselor)</li>
+  
 <li>
   Dina Boshnaq (Truck Driver)
-  <img src='dinaAvatar.png' width=50/>
+  <img src='dinaAvatar.png' width='200'/>
 </li>
 
-<li>Sharon Maharjan (Landscaper & Groundskeeper)</li>
-![e1fd4cb1-3e31-4eac-b64a-1ed1f133c0a1](https://github.com/16dina/DataExplorers/assets/90972733/682cbe1a-3c7a-4956-858a-2b81fcf869f4)
+<li>
+  Sharon Maharjan (Landscaper & Groundskeeper)
+  <img src='sharonAvatar.png' width='200'/>
+</li>
+
 </ol> 
 
 
