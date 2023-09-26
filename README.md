@@ -8,8 +8,32 @@ In the age of information, where data is often referred to as the new currency, 
 At DataExplorer, our mission is clear: to empower organizations with the knowledge and insights hidden within their data. We believe that data is the key to unlocking opportunities, solving complex challenges, and making informed decisions that lead to success. Our purpose is to help businesses explore, understand, and navigate their data with confidence.
 
 <h2>Meet our company members!</h2>
+
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+</style>
+</head>
+
+<div class="card">
+  <img src="daan.png" alt="Daan" style="width:100%">
+  <div class="container">
+    <h4><b>Daan Michielsen</b></h4> 
+    <p>(Substance Abuse Counselor)</p> 
+  </div>
+</div>
 <ol>
-<li>Daan Michielsen (Substance Abuse Counselor)</li>
   
 <li>
   Dina Boshnaq (Truck Driver)
