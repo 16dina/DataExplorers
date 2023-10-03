@@ -10,11 +10,8 @@ At DataExplorers, our mission is clear: to empower organizations with the knowle
 
 <h2>Meet our company members!</h2>
 
-<<<<<<< HEAD
-
 Company Members:
-=======
->>>>>>> 644c65293afc95be449e971ef2dfd2a6d7c01938
+
 <ol>
 <li>
     Daan Michielsen (Substance Abuse Counselor)
